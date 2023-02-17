@@ -31,5 +31,3 @@ numbers in and behind the data want to convey. You have to create a
 dashboard for the same using different statistical graphs and diagrams
 for a visual understanding and analysis.
 
-# Note: 
-Submit a video link (Youtube, Zoom, Or Vimeo) that consists of a screen-recorded solution of the tasks assigned in the module. (For module 1, run the query and display its solution. For module 2, show the designed dashboard.)
