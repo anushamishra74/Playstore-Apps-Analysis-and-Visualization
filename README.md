@@ -14,8 +14,7 @@ Module 2: Visualizing data using Power bi.
 # Tools and Technologies
 1. SQL (SSMS)
 2. POWER BI
-3. Excel
-4. Python
+3. Python
 
 # Module 1
 In this module, you will query the dataset using structured query
