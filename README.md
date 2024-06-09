@@ -8,8 +8,8 @@ pre-process the data using python for a better upcoming performance, how a
 structured query language helps us retrieve useful information from the
 database, and visualize the data with the power bi tool.
 The Project will consist of 2 modules:
-Module 1: Pre-processing, Analyzing data using Python and SQL.
-Module 2: Visualizing data using Power bi.
+Module 1: Pre-processing, Analyzing data using SQL.
+Module 2: Visualizing data using Power BI.
 
 # Tools and Technologies
 1. SQL (SSMS)
