@@ -1,5 +1,9 @@
 # Playstore-Apps-Analysis-and-Visualization
-This project aims on cleaning the dataset, analyze the given dataset, and mining informational quality insights. This project also involves visualizing the data to better and easily understand trends and different categories.
+This project aims at cleaning and analyzing the given dataset. This project also involves visualizing the data to better and easily understand trends and different categories.
+
+# Tools and Technologies
+1. SQL (SSMS)
+2. POWER BI
 
 # Project Description
 This project will help you understand how a real-world database is analyzed
@@ -10,10 +14,6 @@ database, and visualize the data with the power bi tool.
 The Project will consist of 2 modules:
 Module 1: Pre-processing, Analyzing data using SQL.
 Module 2: Visualizing data using Power BI.
-
-# Tools and Technologies
-1. SQL (SSMS)
-2. POWER BI
 
 # Module 1
 In this module, you will query the dataset using structured query
